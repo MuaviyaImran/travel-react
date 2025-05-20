@@ -58,7 +58,7 @@ Below are some screenshots of the platform:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Mo-Ibra/next-travel
+   https://github.com/MuaviyaImran/travel-react.git
    cd next-travel
    ```
 

@@ -29,7 +29,7 @@ function News() {
                             30 April, 2019
                         </div>
                         <div className="my-10">
-                            <span className='text-red-500 text-sm my-2 uppercase'>BY Mohamed Ibrahim</span>
+                            <span className='text-red-500 text-sm my-2 uppercase'>BY Muaviya Imran</span>
                             <h3 className='text-2xl font-semibold text-gray-700 my-2'>Why should you choose us? (Our Features)</h3>
                         </div>
                         <div className='my-5'>
