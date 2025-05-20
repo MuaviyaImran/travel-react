@@ -4,7 +4,7 @@ A modern, fully responsive Travel Website built using Next.js, designed to help 
 
 ## Live demo
 
-Check the live demo here 👉️ [Take a look](https://next-travel-beta.vercel.app//)
+Check the live demo here 👉️ [Take a look](https://travel-react-khaki.vercel.app/)
 
 ## Features 🌟
 
