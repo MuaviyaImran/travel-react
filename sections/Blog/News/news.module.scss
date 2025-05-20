@@ -1,0 +1,113 @@
+.newsCard.orange
+{
+    transition: all 0.3s ease-in-out;
+
+    h3,
+    p,
+    span,
+    svg,
+    .newsBadge
+    {
+        transition: all 0.3s ease-in-out;
+    }
+
+    .newsBadge
+    {
+        @apply bg-orange-500 #{!important};
+    }
+
+    &:hover
+    {
+        @apply bg-orange-500 #{!important};
+
+        h3,
+        p,
+        span,
+        svg
+        {
+            color: white;
+        }
+
+        .newsBadge
+        {
+            background-color: white !important;
+            @apply text-orange-500 #{!important};
+        }
+    }
+}
+
+.newsCard.blue
+{
+    transition: all 0.3s ease-in-out;
+
+    h3,
+    p,
+    span,
+    svg,
+    .newsBadge
+    {
+        transition: all 0.3s ease-in-out;
+    }
+
+    .newsBadge
+    {
+        @apply bg-blue-500 #{!important};
+    }
+
+    &:hover
+    {
+        @apply bg-blue-500 #{!important};
+
+        h3,
+        p,
+        span,
+        svg
+        {
+            color: white;
+        }
+
+        .newsBadge
+        {
+            background-color: white !important;
+            @apply text-blue-500 #{!important};
+        }
+    }
+}
+
+.newsCard.red
+{
+    transition: all 0.3s ease-in-out;
+
+    h3,
+    p,
+    span,
+    svg,
+    .newsBadge
+    {
+        transition: all 0.3s ease-in-out;
+    }
+
+    .newsBadge
+    {
+        @apply bg-red-500 #{!important};
+    }
+
+    &:hover
+    {
+        @apply bg-red-500 #{!important};
+
+        h3,
+        p,
+        span,
+        svg
+        {
+            color: white;
+        }
+
+        .newsBadge
+        {
+            background-color: white !important;
+            @apply text-red-500 #{!important};
+        }
+    }
+}
